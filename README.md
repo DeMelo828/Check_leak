@@ -4,8 +4,8 @@ Este container verifica se uma senha e um e-mail foram comprometidos usando font
 
 ## Verificações:
 
-- Senha: Have I Been Pwned (API pública)
-- E-mail: Cybernews (requisição real)
+- Senha: Have I Been Pwned
+- E-mail: Cybernews
 - E-mail: Mozilla Monitor
 - E-mail: F-Secure
 
