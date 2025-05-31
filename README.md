@@ -14,4 +14,4 @@ Este container verifica se uma senha e um e-mail foram comprometidos usando font
 ### 1. Build
 
 ```bash
-docker build -t vazamento-check .
+docker build -t check-leak .
